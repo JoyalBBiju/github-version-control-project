@@ -1,0 +1,5 @@
+Day 1:
+- Learned git init, add, commit
+
+Day 2:
+- Learned push, pull, clone
